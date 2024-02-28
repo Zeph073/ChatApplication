@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359085430421",
+    "project_id": "kachatapp",
+    "storage_bucket": "kachatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359085430421:android:94bf38af5479a325792d9c",
+        "android_client_info": {
+          "package_name": "com.example.kachatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDnqIBdl0J_Jhf_1yeD_zQQ5o6u0GAh3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
